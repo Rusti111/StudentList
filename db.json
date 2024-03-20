@@ -1,0 +1,124 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Ruslan",
+            "username": "_rus1an",
+            "address": {
+                "street": "Исанова 93",
+                "city": "Ош"
+            },
+            "phone": "0555081403",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студент который всегда что-то понимает поздно и любит учится до тех пор пока он не устанет."
+        },
+        {
+            "id": "2",
+            "name": "Azat",
+            "username": "_aza_na_max",
+            "address": {
+                "street": "Суйунбаева 51",
+                "city": "Ош"
+            },
+            "phone": "0221200227",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Азат студент который всегда делает домашние задание на максимум."
+        },
+        {
+            "id": "3",
+            "name": "Алексей",
+            "username": "_alex_max",
+            "address": {
+                "street": "Ленина 15",
+                "city": "Бишкек"
+            },
+            "phone": "0555123456",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студент, который всегда старается на максимум."
+        },
+        {
+            "id": "4",
+            "name": "Мария",
+            "username": "_maria_star",
+            "address": {
+                "street": "Пушкина 23",
+                "city": "Ош"
+            },
+            "phone": "0555987654",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студентка, которая всегда учится с улыбкой."
+        },
+        {
+            "id": "5",
+            "name": "Иван",
+            "username": "_ivan_great",
+            "address": {
+                "street": "Советская 45",
+                "city": "Бишкек"
+            },
+            "phone": "0555111222",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студент, который всегда готов помочь другим."
+        },
+        {
+            "id": "6",
+            "name": "Елена",
+            "username": "_elena_sun",
+            "address": {
+                "street": "Кирова 67",
+                "city": "Ош"
+            },
+            "phone": "0555222333",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студентка, которая всегда радует всех своим оптимизмом."
+        },
+        {
+            "id": "7",
+            "name": "Сергей",
+            "username": "_sergey_fast",
+            "address": {
+                "street": "Молодежная 89",
+                "city": "Бишкек"
+            },
+            "phone": "0555333444",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студент, который всегда быстро усваивает новую информацию."
+        },
+        {
+            "id": "8",
+            "name": "Анна",
+            "username": "_anna_smart",
+            "address": {
+                "street": "Юности 12",
+                "city": "Ош"
+            },
+            "phone": "0555444555",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студентка, которая всегда добивается своих целей."
+        },
+        {
+            "id": "9",
+            "name": "Дмитрий",
+            "username": "_dmitry_cool",
+            "address": {
+                "street": "Прогресса 34",
+                "city": "Бишкек"
+            },
+            "phone": "0555666777",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студент, который всегда остается спокойным и собранным."
+        },
+        {
+            "id": "10",
+            "name": "Ольга",
+            "username": "_olga_bright",
+            "address": {
+                "street": "Светлая 56",
+                "city": "Ош"
+            },
+            "phone": "0555888999",
+            "photo": "https://i.pinimg.com/736x/3b/c4/25/3bc425c59e4da41f0ae593813d28d395.jpg",
+            "description": "Студентка, которая всегда видит светлую сторону вещей."
+        }
+    ]
+}
